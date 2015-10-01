@@ -1,3 +1,6 @@
 sample git file.  Making an edit.
 
 Now making an edit directly on github
+
+
+let's try changing in both places.  this is the remote change.
