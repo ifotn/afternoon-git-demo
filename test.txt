@@ -2,4 +2,9 @@ sample git file.  Making an edit.
 
 Now making an edit directly on github
 
+<<<<<<< HEAD
 let's try changing in both places.  this is the local change.
+=======
+
+let's try changing in both places.  this is the remote change.
+>>>>>>> origin/master
